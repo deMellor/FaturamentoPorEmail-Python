@@ -8,3 +8,8 @@ Todos os dias o analista precisava fazer uma atualização sobre as vendas do di
 Solução:
 
 Uma simples automação utilizando o Python junto das bibliotecas de pyautogui para criar um robôzinho que pudesse fazer o download da tabela, separar todas as informações necessárias e enviar automaticamente o e-mail para a diretoria.
+
+
+# Informações sobre
+
+O bot foi construido utilizando a plataforma Jupyter, seu funcionamento principal é automatizar o teclado e mouse, então as posições que o mouse irá acessar e mexer vão mudar de acordo com a resolução da sua tela. A resolução usada no meu caso foi de 1366*768
